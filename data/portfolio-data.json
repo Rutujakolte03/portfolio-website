@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Rutuja Kolate | Software Engineer",
+    "description": "Portfolio website showcasing product design work and skills"
+  },
+  "personal": {
+    "name": "Rutuja Kolate",
+    "title": "Software Engineer",
+    "location": "Pune Maharashtra, India",
+    "avatar": "/confident-professional.jpg",
+    "email": "rutujakolte193@gmail.com",
+    "phone": "+91 (827) 515-9161",
+    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "availableForWork": true,
+    "badges": ["Software", "Java Development", "FullStack Developer"],
+    "social": [
+      { "platform": "GitHub", "url": "#", "icon": "Github" },
+      { "platform": "LinkedIn", "url": "#", "icon": "Linkedin" },
+      { "platform": "Twitter", "url": "#", "icon": "Twitter" },
+      { "platform": "Instagram", "url": "#", "icon": "Instagram" }
+    ]
+  },
+  "about": {
+    "bio": "Aspiring full-stack developer passionate about user-centered design, accessibility, and ethical tech. Experienced in building real-world web apps using Java, Spring Boot, and ReactJS through internships and freelance projects.",
+    "focus": [
+      "Building full-stack web applications using Java, Spring Boot, and ReactJS",
+      "Designing user-friendly interfaces with a focus on accessibility and performance",
+      "Collaborating on real-world projects and continuously learning new technologies"
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent", "level": 100, "flag": "IN" },
+      { "name": "Hindi", "proficiency": "Fluent", "level": 80, "flag": "IN" },
+      { "name": "Marathi", "proficiency": "Native", "level": 100, "flag": "IN" }
+    ],
+    "interests": [
+      "Full Stack Development",
+      "Java & Spring Boot",
+      "Backend APIs & Databases",
+      "Open Source Contribution",
+      "Problem Solving & DSA"
+    ]
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Credentials", "href": "#credentials" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" }
+  ],
+  "experience": [
+    {
+      "title": "Web Development Intern",
+      "company": "Oasis Infobyte",
+      "period": "2024",
+      "description": "Worked on front-end development using HTML5, CSS3, and JavaScript. Focused on creating interactive and responsive web applications while mastering core JavaScript concepts like DOM manipulation and OOP.",
+      "achievements": [
+        "Developed interactive UI components improving user experience across devices",
+        "Strengthened knowledge of core JavaScript and responsive design",
+        "Contributed to multiple projects during internship enhancing real-world coding skills"
+      ],
+      "technologies": ["HTML5", "CSS3", "JavaScript", "DOM"]
+    },
+    {
+      "title": "Artificial Intelligence Intern",
+      "company": "CodSoft",
+      "period": "Dec 2023 - Jan 2024",
+      "description": "Completed a 4-week virtual internship focused on Artificial Intelligence. Gained hands-on exposure to AI fundamentals and real-world applications while solving assigned project tasks.",
+      "achievements": [
+        "Completed AI-based project tasks as per weekly deadlines",
+        "Developed understanding of real-world AI workflows",
+        "Demonstrated responsibility, task ownership, and learning agility"
+      ],
+      "technologies": ["Python", "AI Concepts", "Problem Solving"]
+    },
+    {
+      "title": "Web Development Intern",
+      "company": "PHN Technology Pvt. Ltd.",
+      "period": "Apr 2023 - Jul 2023",
+      "description": "Completed a virtual internship in Web Development, gaining practical experience and professional skills through active project participation and client-side development.",
+      "achievements": [
+        "Contributed actively to client-side web projects",
+        "Showcased adaptability, professionalism, and teamwork",
+        "Received recognition for strong work ethic and positive impact"
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "Web Development"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "SAP Fundamentals Virtual Internship",
+        "issuer": "Edunet Foundation & AICTE",
+        "date": "2023"
+      },
+      {
+        "name": "Software Engineer Intern Role Certification",
+        "issuer": "HackerRank",
+        "date": "2025"
+      },
+      {
+        "name": "Java with Data Structures and Algorithms",
+        "issuer": "APNA COLLEGE",
+        "date": "2023"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering in Computer Science",
+        "institution": "Savitribai Phule Pune University",
+        "year": "2021-2025"
+      },
+      {
+        "degree": "HSC - Bio-Math",
+        "institution": "Maharashtra State Board of Education",
+        "year": "2020-2021"
+      }
+    ],
+    "skills": [
+      "Java",
+      "JavaScript",
+      "React.js",
+      "Spring Boot",
+      "SQL & MySQL",
+      "RESTful APIs",
+      "HTML5 & CSS3",
+      "Tailwind CSS",
+      "TypeScript",
+      "Next.js",
+      "Docker",
+      "Git & GitHub",
+      "Firebase",
+      "OOP & DSA"
+    ]
+  },
+  "technicalSkills": {
+    "programmingLanguages": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Shell Script"
+    ],
+    "frameworksAndLibraries": [
+      "React.js",
+      "Next.js",
+      "Spring Boot",
+      "Node.js",
+      "Hibernate",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "databaseAndTools": [
+      "MySQL",
+      "PostgreSQL",
+      "Firebase",
+      "JDBC",
+      "Maven",
+      "Jenkins",
+      "Docker",
+      "Render"
+    ],
+    "softSkills": [
+      "Team Collaboration",
+      "Quick Learning",
+      "Problem Solving",
+      "Client Communication",
+      "Project Ownership",
+      "Time Management"
+    ]
+  }
+}
