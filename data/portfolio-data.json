@@ -14,10 +14,10 @@
     "availableForWork": true,
     "badges": ["Software", "Java Development", "FullStack Developer"],
     "social": [
-      { "platform": "GitHub", "url": "#", "icon": "Github" },
-      { "platform": "LinkedIn", "url": "#", "icon": "Linkedin" },
-      { "platform": "Twitter", "url": "#", "icon": "Twitter" },
-      { "platform": "Instagram", "url": "#", "icon": "Instagram" }
+      { "platform": "GitHub", "url": "https://github.com/Rutujakolte03", "icon": "Github" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/rutujakolate/", "icon": "Linkedin" },
+      { "platform": "HackerRank", "url": "https://www.hackerrank.com/profile/rutujakolte193", "icon": "/hackerrank-1324440171742474303.png" },
+      { "platform": "YouTube", "url": "https://www.youtube.com/@rkcreations8900", "icon": "Youtube" }
     ]
   },
   "about": {
